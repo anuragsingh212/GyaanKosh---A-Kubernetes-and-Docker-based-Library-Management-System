@@ -1,23 +1,33 @@
-# GyaanKosh---A-Kubernetes-and-Docker-based-Library-Management-System
+# GyaanKosh - Library Management System
 
-NOTE: For the purpose of presenting the project, a copy of each of the frontend files have been moved out from the "frontend" folder to the root folder.
+A modern, web-based library management system built with HTML, CSS, and JavaScript.
 
+## 🚀 Live Demo
 
-## Tech Stack
-- Frontend: HTML, CSS, JS
-- Backend: Node.js, Express
-- Database: MongoDB
-- Deployment: Docker, Kubernetes
+This website is hosted on GitHub Pages at: `https://anuragsingh212.github.io/GyaanKosh---A-Kubernetes-and-Docker-based-Library-Management-System/`
 
-## Features
-- Admin book management
-- Student book requests/return
-- Role-based authentication
+## 📁 Project Structure
 
+- `frontend/`- Frontend (watch in about section of the root folder) 
+- `backend/` - Backend API (not used in GitHub Pages deployment)
+- `k8s/` - Kubernetes configuration files
 
+## 🌐 Features
 
+- Modern, responsive design
+- Book catalog browsing
+- User authentication system
+- Student and librarian dashboards
+- QR/RFID-based book issuing
+- Community features
 
+## 🛠️ Technologies Used
 
+- Frontend: HTML5, CSS3, JavaScript (ES6+)
+- Styling: Custom CSS with Font Awesome icons
+- Fonts: Google Fonts (Poppins)
+- Backend: Node.js (separate deployment)
+- Containerization: Docker & Kubernetes
 
 
 
