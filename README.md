@@ -139,6 +139,13 @@ During my internship period, I participated in multiple community-oriented and p
 - Balanced Lifestyle: Successfully integrated stress management techniques to maintain productivity while contributing positively to social causes.
 - Social Awareness: Developed a heightened sense of empathy and responsibility toward vulnerable members of society and environmental conservation.
 
+### **Photos**
+
+<div align="center">
+<img src="https://github.com/anuragsingh212/GyaanKosh---A-Kubernetes-and-Docker-based-Library-Management-System/blob/main/Anurag-G6CC_Community%20Services/Helping_Senior_Citizen.jpg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/anuragsingh212/GyaanKosh---A-Kubernetes-and-Docker-based-Library-Management-System/blob/main/Anurag-G6CC_Community%20Services/Plantation.jpg" alt="Community Service Photo 2" width="30%">
+</div>
+
 ## **Certificate**
 
 The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
